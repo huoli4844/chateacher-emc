@@ -1,49 +1,17 @@
 [
   {
     "type": "complete_writing_guide",
-    "chapter": 2,
-    "title": "电磁兼容概述",
-    "guide_path": "output/写作大纲/writing-guide-ch2.md",
+    "chapter": 13,
+    "title": "其他电磁兼容应用*",
+    "guide_path": "output/写作大纲/writing-guide-ch13.md",
     "outline_sections": [
       {
-        "num": "2.1",
-        "title": "解决电磁兼容问题的一般方法"
+        "num": "13.1",
+        "title": "计算机电磁信息泄漏与防护"
       },
       {
-        "num": "2.2",
-        "title": "电磁干扰抑制策略概述"
-      },
-      {
-        "num": "2.1",
-        "title": "传输途径控制"
-      },
-      {
-        "num": "2.2",
-        "title": "空间分离"
-      },
-      {
-        "num": "2.3",
-        "title": "时间分隔"
-      },
-      {
-        "num": "2.4",
-        "title": "频域管理"
-      },
-      {
-        "num": "2.5",
-        "title": "电气隔离"
-      },
-      {
-        "num": "2.3",
-        "title": "电磁兼容标准简介"
-      },
-      {
-        "num": "2.4",
-        "title": "常用电磁兼容术语"
-      },
-      {
-        "num": "2.5",
-        "title": "常用电磁兼容单位"
+        "num": "13.2",
+        "title": "生物电磁效应"
       }
     ],
     "source_books": [
