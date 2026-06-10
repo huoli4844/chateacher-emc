@@ -1,17 +1,37 @@
 [
   {
     "type": "complete_writing_guide",
-    "chapter": 13,
-    "title": "其他电磁兼容应用*",
-    "guide_path": "output/写作大纲/writing-guide-ch13.md",
+    "chapter": 1,
+    "title": "绪论",
+    "guide_path": "output/写作大纲/writing-guide-ch1.md",
     "outline_sections": [
       {
-        "num": "13.1",
-        "title": "计算机电磁信息泄漏与防护"
+        "num": "1.1",
+        "title": "电磁兼容定义内涵"
       },
       {
-        "num": "13.2",
-        "title": "生物电磁效应"
+        "num": "1.1",
+        "title": "电磁干扰"
+      },
+      {
+        "num": "1.2",
+        "title": "电磁兼容定义"
+      },
+      {
+        "num": "1.3",
+        "title": "电磁兼容内涵"
+      },
+      {
+        "num": "1.2",
+        "title": "电磁兼容学科发展。"
+      },
+      {
+        "num": "1.3",
+        "title": "电磁兼容研究内容"
+      },
+      {
+        "num": "1.4",
+        "title": "电磁兼容学科特点"
       }
     ],
     "source_books": [
