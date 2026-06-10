@@ -1,0 +1,61 @@
+[
+  {
+    "type": "complete_writing_guide",
+    "chapter": 1,
+    "title": "绪论",
+    "guide_path": "output/写作大纲/writing-guide-ch1.md",
+    "outline_sections": [
+      {
+        "num": "1.1",
+        "title": "电磁兼容定义内涵"
+      },
+      {
+        "num": "1.1",
+        "title": "电磁干扰"
+      },
+      {
+        "num": "1.2",
+        "title": "电磁兼容定义"
+      },
+      {
+        "num": "1.3",
+        "title": "电磁兼容内涵"
+      },
+      {
+        "num": "1.2",
+        "title": "电磁兼容学科发展。"
+      },
+      {
+        "num": "1.3",
+        "title": "电磁兼容研究内容"
+      },
+      {
+        "num": "1.4",
+        "title": "电磁兼容学科特点"
+      }
+    ],
+    "source_books": [
+      {
+        "author": "路宏敏",
+        "display_name": "工程电磁兼容（第3版）",
+        "path": "/Users/huoli4844/Desktop/电磁兼容/处理后/工程电磁兼容第3版_路宏敏/优先级1-十二五规划教材_工程电磁兼容第3版_路宏敏.md"
+      },
+      {
+        "author": "张亮",
+        "display_name": "电磁兼容EMC技术及应用实例详解",
+        "path": "/Users/huoli4844/Desktop/电磁兼容/处理后/电磁兼容EMC技术及应用实例详解_张亮/优先级2-电磁兼容EMC技术及应用实例详解-张亮.md"
+      },
+      {
+        "author": "梁振光",
+        "display_name": "电磁兼容原理、技术及应用（第2版）",
+        "path": "/Users/huoli4844/Desktop/电磁兼容/处理后/电磁兼容原理技术及应用第2版_梁振光/优先级4-十三五_电磁兼容原理技术及应用第2版_梁振光.md"
+      },
+      {
+        "author": "柯金良",
+        "display_name": "电磁兼容概论",
+        "path": "/Users/huoli4844/Desktop/电磁兼容/处理后/电磁兼容概论_柯金良/优先级3-电磁兼容概论-柯金良.md"
+      }
+    ],
+    "status": "pending"
+  }
+]
