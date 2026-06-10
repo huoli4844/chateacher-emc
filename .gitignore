@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Hermes temp
+.hermes-tmp.*
+
+# Backup
+*.bak
+*.bak2
+*.orig
+
+# Temp scripts
+output/fix_*.py
+
+# Audit artifacts (regenerated each run)
+output/补充与完善分析报告.md
+output/补充执行清单.json

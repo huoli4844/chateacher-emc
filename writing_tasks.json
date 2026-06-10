@@ -1,0 +1,119 @@
+[
+  {
+    "chapter": 1,
+    "title": "绪论 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.769849"
+  },
+  {
+    "chapter": 10,
+    "title": "电磁兼容测量 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.769982"
+  },
+  {
+    "chapter": 11,
+    "title": "印制电路板的电磁兼容 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770079"
+  },
+  {
+    "chapter": 12,
+    "title": "瞬态干扰抑制 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770169"
+  },
+  {
+    "chapter": 13,
+    "title": "其他电磁兼容应用* 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770251"
+  },
+  {
+    "chapter": 2,
+    "title": "电磁兼容概述 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770353"
+  },
+  {
+    "chapter": 3,
+    "title": "电磁骚扰源 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770447"
+  },
+  {
+    "chapter": 4,
+    "title": "电磁耦合途径 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770529"
+  },
+  {
+    "chapter": 5,
+    "title": "搭接技术 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770613"
+  },
+  {
+    "chapter": 6,
+    "title": "接地技术 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770695"
+  },
+  {
+    "chapter": 7,
+    "title": "滤波技术 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770779"
+  },
+  {
+    "chapter": 8,
+    "title": "屏蔽技术 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770863"
+  },
+  {
+    "chapter": 9,
+    "title": "电磁兼容预测 写作指南",
+    "l1_sections": [],
+    "l2_sections": [],
+    "target_kb_per_section": {},
+    "status": "pending",
+    "created_at": "2026-06-10T22:03:11.770944"
+  }
+]
